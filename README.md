@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Saurabh Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer with expertise in Data Analysis</h3>
+<h3 align="center">A passionate Full Stack Developer with AI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=skumar1690&label=Profile%20views&color=0e75b6&style=flat" alt="skumar1690" />
@@ -12,10 +12,12 @@
 ## 💻 About Me
 
 - 🎓 B.Tech in Mathematics and Computing at **Delhi Technological University (2021-2025)**
-- 🔭 I'm currently working on **AST-Based Rule Engine Development**
-- 🌱 I'm currently learning **React.js, Node.js, and Advanced Data Structures**
-- 👨‍💻 Check out my projects at [github.com/skumar1690](https://github.com/skumar1690)
-- 💬 Ask me about **Full Stack Development, DSA, and Data Analysis**
+- 🤷‍♂️ Mastered coursework in **DSA, OOPS, Operating Systems, DBMS, CN, GRAPH Theory, and Software Engineering** enhancing expertise in scalable application development
+- 🔍 Skilled in **React JS, JavaScript, HTML, C++, Tailwind CSS, and CSS for dynamic front-end and systems development**
+- 🌱 I'm currently learning **Next.js, Prisma, tRPC, Advanced Data Structures & Algorithm, and AI/ML technologies** Proficient in Python and its libraries
+- 🚀 Exploring new technologies and developing software solutions
+- 💬 Ask me about **Full Stack Development, DSA, and AI/ML**
+- 🔍 Looking to collaborate on innovative projects in web development and AI
 
 ## 🚀 Work Experience
 
@@ -29,6 +31,35 @@
   <b>Programming Languages</b><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <b>Web Development</b><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <b>Database & Data</b><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <b>Tools & Others</b><br>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</p>/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -64,27 +95,31 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
-## 🏆 Projects
+## 🏆 Projects & Learning Journey
 
-### AST-Based Rule Engine Development
-- Built a rule management interface that reduced admin tasks by 40% through visual configuration
-- Engineered a rule engine using Abstract Syntax Trees (AST) to parse and evaluate nested business rules
-- **Tech stack**: Node.js, MySQL, REST APIs, HTML, JavaScript
+### Learning Tracks (In Progress)
+- **Full Stack Web Development (MERN Stack)**
+  - Building foundational skills in MongoDB, Express, React, and Node.js
+  - Implementing responsive designs with TailwindCSS
+  - Learning authentication, state management, and API integration
 
-### E-Commerce Analytics Pipeline
-- Engineered a data pipeline processing 50,000+ customer records
-- Implemented Random Forest machine learning algorithm achieving 89% accuracy in customer churn prediction
-- **Tech stack**: Python (Pandas, NumPy), scikit-learn, SQL, SQLite
+### AI/ML Exploration
+- Studying fundamentals of Machine Learning algorithms
+- Learning Python libraries for data analysis (Pandas, NumPy)
+- Exploring Generative AI concepts and applications
 
-### Weather-Watch-Real-Time-Monitoring
-- Developed a Node.js weather monitoring app using OpenWeatherMap API with real-time insights
-- Implemented alerting, caching, and Chart.js visualizations, reducing load time by 40%
-- **Tech stack**: Node.js, React.js, HTML, CSS, JavaScript
+### Previous Projects
+- **AST-Based Rule Engine Development**
+  - Built a rule management interface with visual configuration capabilities
+  - Tech stack: Node.js, MySQL, REST APIs, HTML, JavaScript
 
-### Wanderlust - Airbnb Clone
-- Developed a full-stack web application inspired by Airbnb with 100+ accommodation listings
-- Implemented CRUD operations using the MVC architecture
-- **Tech stack**: JavaScript, Node.js, Mongoose
+- **Weather App**
+  - Developed a weather monitoring application using public APIs
+  - Tech stack: Node.js, HTML, CSS, JavaScript
+
+- **Wanderlust - Airbnb Clone**
+  - Developed a full-stack web application inspired by Airbnb
+  - Tech stack: JavaScript, Node.js, Mongoose
 
 ## 🏅 Achievements
 
@@ -121,10 +156,12 @@
 
 ## 🔍 Current Focus
 
-- 💡 Developing advanced REST APIs with Node.js and Express
+- 💡 Learning the MERN stack (MongoDB, Express, React, Node.js) comprehensively
 - 🌐 Building responsive web applications with React and TailwindCSS
-- 📊 Exploring data visualization libraries and techniques
-- 🧠 Enhancing skills in system design and architecture
+- 🧠 Advancing Data Structures and Algorithms skills for technical interviews
+- 🤖 Exploring Generative AI and Machine Learning fundamentals
+- 📊 Studying data visualization libraries and cloud technologies
+- 🛠️ Working on personal projects to apply new skills (in progress)
 
 ## 🔗 Connect with me
 
